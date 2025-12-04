@@ -1,7 +1,7 @@
 # Terras Capixabas
 A Luanti (new Minetest engine) mod made by Aloan, to represent Brazil and more specifically the Brazilian state of Espírito Santo.
 
-<img align="center" src="./screenshots/screenshot.png" width="600">
+<img align="center" src="./screenshots/br3.png" width="600">
 
 ## Meaning
 
