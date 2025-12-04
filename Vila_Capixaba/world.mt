@@ -1,0 +1,17 @@
+enable_damage = false
+mod_storage_backend = sqlite3
+auth_backend = sqlite3
+player_backend = sqlite3
+backend = sqlite3
+gameid = minetest
+creative_mode = true
+world_name = Vila Capixaba
+server_announce = false
+load_mod_terras_capixabas = mods/terras_capixabas
+load_mod_worldedit_shortcommands = mods/worldedit/worldedit_shortcommands
+load_mod_worldedit_gui = mods/worldedit/worldedit_gui
+load_mod_worldedit_brush = mods/worldedit/worldedit_brush
+load_mod_worldedit_commands = mods/worldedit/worldedit_commands
+load_mod_worldedit = mods/worldedit/worldedit
+load_mod_we_undo = mods/we_undo
+load_mod_szutil_fixhack = mods/szutilpack-master/szutil_fixhack
