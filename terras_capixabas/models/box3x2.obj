@@ -1,0 +1,19 @@
+# Made in Blockbench 4.12.4
+mtllib box3x2.mtl
+
+o Block
+v 1.5 1.5 0
+v 1.5 1.5 0
+v 1.5 -0.5 0
+v 1.5 -0.5 0
+v -1.5 1.5 0
+v -1.5 1.5 0
+v -1.5 -0.5 0
+v -1.5 -0.5 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+vn 0 0 -1
+usemtl m_0402256b-feb9-cb31-4307-898d87bd8e5c
+f 4/4/1 7/3/1 5/2/1 2/1/1
