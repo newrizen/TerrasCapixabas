@@ -41,7 +41,7 @@ To play you need:
 
 - On Luanti, click on '+', 'Games' and download the default game 'Minetest Game'.
 
-- Download the folders from this repository and in the general '.minetest' folder created by Luanti, move the 'Vila_Capixaba' folder into the 'worlds'.
+- Download the folders from this repository and in the general '.minetest' folder created by Luanti, move the 'Vila_Capixaba' folder into the 'worlds' and also to 'mods' (a backup if you delete the world).
 
 - Open Luanti (if it was open before placing the folders, close and reopen it to update) and in Minetest Game play the world 'Vila Capixaba'.
 
