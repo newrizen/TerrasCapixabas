@@ -10,7 +10,7 @@ The word Capixaba has its origins in the indigenous word "kopi'xawa", from Tupi,
 
 *In Brazil, it is widely known as a gentilic for the people of Espirito Santo, but it is also the name of a city in the Brazilian state of Acre.
 
-## WHAT IS IT, AND WHAT DOES THIS MOD DO?
+## The Game
 This Mod is a simulation of vacation and fun in a big village! A tropical paradise to enjoy a digital holiday with tours, interactions and entertainment. You can also opt for peace and tranquility, enjoying the landscape and taking photos. Transform your Luanti world into a place in Southeast Brazil with hundreds of models native to this region.
 
 This mod is divided into two contents, the main mod "Terras_Capixabas" and "Vila_Capixaba" (Capixaba's Village) as an extension.
