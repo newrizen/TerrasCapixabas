@@ -41,7 +41,7 @@ To play you need:
 
 - On Luanti, click on '+', 'Games' and download the default game 'Minetest Game'.
 
-- Download the folders from this repository and in the general '.minetest' folder created by Luanti, move the 'Vila_Capixaba' folder into the 'worlds' folder and 'terras_capixabas' into the 'mods' folder.
+- Download the folders from this repository and in the general '.minetest' folder created by Luanti, move the 'Vila_Capixaba' folder into the 'worlds'.
 
 - Open Luanti (if it was open before placing the folders, close and reopen it to update) and in Minetest Game play the world 'Vila Capixaba'.
 
@@ -64,11 +64,11 @@ To play you need:
 - Q - Drop item
 - J - Fast move
 - K - Fly mode
-- H - Noclip mode (Pass-through like a ghost)
+- H - Noclip mode (pass-through like a ghost)
 - C - Change point of view (1st person, 3rd person back, 3rd person froint)
 - Z - See further
 
-- f5 - Identify some itens and your location
+- F5 - Identify some itens and your location
 
 - T - Open chat
   - To quickly change the time, type '/time 10000' for daytime and '/time 24000' for nighttime
