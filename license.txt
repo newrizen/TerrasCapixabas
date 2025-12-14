@@ -1,0 +1,144 @@
+===========================================
+Terras Capixabas – License Information
+===========================================
+
+This project contains multiple assets with different licenses.
+Each category is listed below with its respective rights.
+
+-------------------------------------------
+1. Third-Party Textures (CC BY-SA 3.0)
+-------------------------------------------
+The following files are licensed under
+Creative Commons Attribution–ShareAlike 3.0:
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Author: Bicudinho
+Source: https://www.planetminecraft.com/member/bicudinho/
+
+/textures/araponga.png
+/textures/bemtevi.png
+/textures/pardal.png
+/textures/rolinha.png
+
+-------------------------------------------
+2. Third-Party Music (CC BY 4.0)
+-------------------------------------------
+"Aerosol of my Love" by Kevin MacLeod
+(incompetech.com)
+
+Licensed under Creative Commons Attribution 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+
+-------------------------------------------
+3. Original Assets by Aloan Moreira (CC BY-SA 4.0)
+skins I made: (skins by Aloan):
+
+patinete_boy.png
+pe_adel.png    
+pe_adriana.png
+pe_ale.png
+pe_alexia.png
+pe_anel.png
+pe_ashley.png
+pe_becky.png
+pe_bilza.png
+pe_brittany.png
+pe_carla.png
+pe_dreneas.png
+pe_elaine.png
+pe_garota_patins.png
+pe_gisele.png
+pe_juana.png
+pe_lane.png
+pe_mada.png
+pe_mary.png
+pe_motorista.png
+pe_stephanie.png
+pe_trocador.png
+picoleteiro.png
+pipoqueiro.png
+quebra_quixeiro.png
+
+--------------------------------
+These 5 Skins are used under written permission from MSP Estúdio (Mauricio de Souza Produções):
+
+cascao.png
+cebolinha.png
+franjinha.png
+magali.png
+monica.png
+
+--------------------------------
+
+Except the media listed above, all media licence is CC0 
+
+bolsonaro.png - by Limonada06 - https://www.minecraftskins.com/skin/21083342/bolsonaro/
+pe_ariana.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_bear.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_bikinigirl.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_bikinigirl2.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_bruce.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_camy.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_carlos.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_chulli.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_ciro_gomes.png - is my edit from: https://minecraft.novaskin.me/post/5990013454/ciro-gomes
+pe_cuca.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_curupira.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_diane.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_drstrange.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_dude.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante1.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante2.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante3.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante4.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante5.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante6.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante7.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_estudante8.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_fafia_fan.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_felicia.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_gato.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_goofy.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_gori.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_heman.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_india.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_indiana.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_indio.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_jada.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_jasmine.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_jessica.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_karas.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_latina.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_luigi.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_lula.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_madruga.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_mai_shiranui.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_maravilha.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_michael.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_minotauro.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_monstro.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_mrt_ind.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_nativo.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_npc1.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_npc2.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_npc3.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_old1.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_old2.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_old3.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_pewee.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_playmobil.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_poca.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_princesa.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_professor.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_ryu.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_saci.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_sargento.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_scooby.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_shazam.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_soldado.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_spectman.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_taz.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_tiririca.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_vampira.png - is my edit from: https://www.planetminecraft.com/skins/
+pe_vampiro.png - is my edit from: https://www.planetminecraft.com/skins/
