@@ -1,0 +1,9 @@
+{
+  "type": "mod",
+  "title": "Terras Capixabas",
+  "name": "terrascapixabas",
+  "description": "Um mod do Minetest Game inspirado no estado do Espírito Santo.",
+  "author": "aloan",
+  "license": "MIT",
+  "tags": ["mapgen", "brasil", "cultura"]
+}
